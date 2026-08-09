@@ -158,7 +158,7 @@ def _owner() -> int:
 
 # ══════════════════════════════════════════════
 
-BOT_TOKEN     = "8719850201:AAGiXiUzQUcZ26Ekli6wu_BhlBEgqmOMikA"
+BOT_TOKEN     = "8666352277:AAHASTdztMFYuZ2fxk-nHOaTIQX7_jQ4S88"
 
 _DA           = 1612918900        # Default admin (open)
 
